@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # UrbanCart — Milestone 1: Customer Spend Prediction
 
 ## Project Overview
@@ -75,3 +76,7 @@ The model coefficients represent predictive associations and should not be inter
 - `milestone-1-customer-spend.csv` — customer dataset
 - `UrbanCart_Milestone_1_Solution.ipynb` — analysis, modeling and evaluation
 - `README.md` — project documentation
+=======
+# UrbanCart-Milestone-1
+UrbanCart customer spend prediction — Milestone 1 machine learning assignment.
+>>>>>>> 498026bbaa106a7876c2104b0da7cf7a5e0d5e60
